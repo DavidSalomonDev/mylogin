@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MyLogin</string>
+    <string name="action_register">Registrar</string>
+    <string name="action_exit">Salir</string>
+    <string name="hint_username">Usuario</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Ingresar</string>
+    <string name="btn_exit">Salir</string>
+    <string name="error_login">Error de usuario y clave inválidos</string>
+    <string name="success_login">Inicio de sesión exitoso</string>
+    <string name="hint_fullname">Nombre completo</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_confirm_password">Confirmar Password</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_return">Regresar</string>
+    <string name="error_username_length">El nombre de usuario debe tener al menos 3 caracteres</string>
+    <string name="error_password_length">La contraseña debe tener al menos 5 caracteres alfanuméricos</string>
+    <string name="error_password_match">Las contraseñas no coinciden</string>
+    <string name="error_email_format">Formato de email inválido</string>
+    <string name="success_register">Usuario registrado exitosamente</string>
+    <string name="navigation_drawer_open">Abrir navigation drawer</string>
+    <string name="navigation_drawer_close">Cerrar navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="welcome_message">Bienvenido</string>
+</resources>
